@@ -30,7 +30,7 @@ Complementing my academic journey, I've undertaken virtual programs with Deloitt
               <h3>Backend Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and APIs
+                and API
               </p>
             </div>
           </li>

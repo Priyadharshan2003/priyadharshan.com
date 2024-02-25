@@ -12,9 +12,11 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-bottom: 10px;
 }
 
 .projects {
+  padding-top: 5px;
   margin-top: 37px;
   display: flex;
   flex-direction: row;

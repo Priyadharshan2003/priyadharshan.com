@@ -26,5 +26,14 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Adobe XD",
+    "imageSrc": "skills/adobexd.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
   }
 ]
+

@@ -17,9 +17,11 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  padding-bottom: 10px;
 }
 
 .content {
+  padding-top: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;

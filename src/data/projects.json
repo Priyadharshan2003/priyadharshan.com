@@ -1,26 +1,24 @@
 [
   {
-    "title": "Project A",
+    "title": "Drift",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "V2E technology, or Vehicle-to-Everything technology, is a rapidly developing field that is revolutionizing the way we interact with machines and devices.",
+    "skills": ["teamwork", "project", "V2v"],
+    "source": "https://github.com/Priyadharshan2003/DRIFT_IOT"
   },
   {
-    "title": "Project B",
+    "title": "Ergonomic Holder For Gadgets",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Designing an ergonomic Holder for Gadgets.",
+    "skills": ["Teamwork", "Client Contact", "Minimal Cost"],
+    "source": "https://drive.google.com/file/d/189EvU8uNBZYULDV4T8CL4pOWIwnsb4uO/view?usp=share_link"
   },
   {
-    "title": "Project C",
+    "title": "Osen Fainde",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Our project, OsenFainde, refers to \"Pollution Control.\"",
+    "skills": ["IFTTT", "Ardunio", "Wearable"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://devfolio.co/projects/mediband-ae10"
   }
 ]

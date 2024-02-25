@@ -4,9 +4,10 @@ import styles from "./Works.module.css";
 export const Works = () => {
   return (
     <section className={styles.container} id="works">
-      <h2 className={styles.title}>Works</h2>
+      <h2 className={styles.title}>Experience</h2>
       <div className={styles.content}>
         {/* Example Work Entry */}
+        <hr />
         <div className={styles.workEntry}>
           <h3>Intern</h3>
           <p>Sona Star</p>

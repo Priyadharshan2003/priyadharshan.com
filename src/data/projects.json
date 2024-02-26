@@ -16,16 +16,16 @@
   {
     "title": "Osen Fainde",
     "imageSrc": "projects/project.png",
-    "description": "Our project, OsenFainde, refers to \"Pollution Control.\"",
-    "skills": ["IFTTT", "Ardunio", "Wearable"],
+    "description": "Our project, OsenFainde, refers to unhuman doctor human proctor",
+    "skills": ["IFTTT", "Ardunio", "Wearable" , "IOT"],
     "demo": "https://www.example.com",
     "source": "https://devfolio.co/projects/mediband-ae10"
   },
   {
     "title": "Medi-fy",
-    "imageSrc": "projects/project.png",
-    "description": "Our project, OsenFainde, refers to \"Pollution Control.\"",
-    "skills": ["IFTTT", "Ardunio", "Wearable"],
+    "imageSrc": "projects/project3.jpg",
+    "description": "Medify helps accident victims to reach out people as Fast as possible",
+    "skills": ["IFTTT", "V2E", "IOT", "EMBEDDED-C"],
     "demo": "https://www.example.com",
     "source": "https://devfolio.co/projects/mediband-ae10"
   }

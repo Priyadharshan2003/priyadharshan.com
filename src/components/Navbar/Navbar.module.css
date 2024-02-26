@@ -23,7 +23,7 @@
 }
 
 .menu {
-  display: flex;
+  display: inline-flex;
 }
 
 .menuItems {

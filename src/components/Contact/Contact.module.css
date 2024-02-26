@@ -13,14 +13,14 @@
 }
 
 .text h2 {
-  font-size: 80px;
-  font-weight: 700;
-  letter-spacing: 4px;
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: 3px;
 }
 
 .text p {
-  font-size: 40px;
-  font-weight: 400;
+  font-size: 50px;
+  font-weight: 300;
   letter-spacing: 2px;
 }
 
@@ -78,7 +78,7 @@
 }
 
 .link img {
-  transition: filter 0.3s ease; /* Smooth transition for brightness changes */
+  transition: filter 0.2s ease; /* Smooth transition for brightness changes */
 }
 
 .link:hover a {
@@ -86,5 +86,5 @@
 }
 
 .link:hover img {
-  filter: brightness(1.2); /* Adjust brightness on hover for the images */
+  filter: brightness(4.6); /* Adjust brightness on hover for the images */
 }

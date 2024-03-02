@@ -8,14 +8,14 @@
   },
   {
     "title": "Ergonomic Gadgets Holder ",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project2.jpg",
     "description": "Designing an ergonomic Holder for Gadgets , Where user will be able attend online meetings while doinq thier other works",
     "skills": ["Teamwork", "Client Contact", "Minimal Cost"],
     "source": "https://drive.google.com/file/d/189EvU8uNBZYULDV4T8CL4pOWIwnsb4uO/view?usp=share_link"
   },
   {
     "title": "Osen Fainde",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project3.jpg",
     "description": "Our project, OsenFainde, refers to unhuman doctor human proctor",
     "skills": ["IFTTT", "Ardunio", "Wearable" , "IOT"],
     "demo": "https://www.example.com",
@@ -23,10 +23,10 @@
   },
   {
     "title": "Medi-fy",
-    "imageSrc": "projects/project3.jpg",
+    "imageSrc": "projects/project4.png",
     "description": "Medify helps accident victims to reach out people as Fast as possible",
-    "skills": ["IFTTT", "V2E", "IOT", "EMBEDDED-C"],
+    "skills": ["Kotlin", "Java"],
     "demo": "https://www.example.com",
-    "source": "https://devfolio.co/projects/mediband-ae10"
+    "source": "https://github.com/Priyadharshan2003/medify.git"
   }
 ]
